@@ -1,28 +1,30 @@
-# A note to the builders.
+# Welcome to Rubric! 👋
 
-Hello world! We're [Rubric](https://rubric.sh).
-
-We're a spirited team of developers and designers, fueled by an AI-first, startup-centric ethos and a relentless pursuit of speedy execution. At Rubric, we're all about transforming ideas into pixel-perfect realities, building cool, intuitive digital spaces, and empowering leading software companies with AI superpowers.
-
-We have been tinkering, hacking, breaking and building for over a decade and could not be more excited and optimistic about the future.
-
-We believe AI is a fully-fledged platform shift, akin to the invention of the internet. We believe that it's important to approach this shift with a child-like sense of wonder. To be bold, curious and open.
-
-Over our careers, we have built a framework for problem solving that prioritizes simple, fast and scalable solutions to complex problems and approach all of our projects with empathy for the people that use them.
-
-We want to sit down with you, skip the BS, break the rules and figure out how we can add value together. We commit to being honest, open, and fun. If you have an idea, project or problem, drop us a line. Let's melt some servers.
-
-Signed,
-
-[Dexter](https://github.com/dexterstorey), [Sarim](https://github.com/sarimrmalik), and [Ted](https://github.com/tedspare).
+> ## A note to the builders.
+>
+> Hello world! We're [Rubric](https://rubric.sh).
+>
+> We're a spirited team of developers and designers, fueled by an AI-first, startup-centric ethos and a relentless pursuit of speedy execution. At Rubric, we're all about transforming ideas into pixel-perfect realities, building cool, intuitive digital spaces, and empowering leading software companies with AI superpowers.
+>
+> We have been tinkering, hacking, breaking and building for over a decade and could not be more excited and optimistic about the future.
+>
+> We believe AI is a fully-fledged platform shift, akin to the invention of the internet. We believe that it's important to approach this shift with a child-like sense of wonder. To be bold, curious and open.
+>
+> Over our careers, we have built a framework for problem solving that prioritizes simple, fast and scalable solutions to complex problems and approach all of our projects with empathy for the people that use them.
+>
+> We want to sit down with you, skip the BS, break the rules and figure out how we can add value together. We commit to being honest, open, and fun. If you have an idea, project or problem, drop us a line. Let's melt some servers.
+>
+> Signed,
+>
+> [Dexter](https://github.com/dexterstorey), [Sarim](https://github.com/sarimrmalik), and [Ted](https://github.com/tedspare).
 
 ## :fast_forward: Quick Start
 
-### Monorepo: [`/rubric`](https://github.com/RubricLab/rubric) ⛰️
-Our monorepo `/rubric` houses our config and digital assets.
+### Monorepo ⛰️
+Our monorepo [`rubric`](https://github.com/RubricLab/rubric) houses our config and digital assets.
 
-### Boilerplate Initialization :computer:
-Kickstart a project with our CLI tool, `create-rubric-app` (inspired by `create-next-app` and `create-t3-app`). It's packed with Rubric-flavored, highly opinionated boilerplate to get you up and running with essentials like ESLint, TypeScript, Prettier, Tailwind CSS, and Next.js 14 right out of the box:
+### Boilerplate :computer:
+Kickstart a project with our CLI tool, [`create-rubric-app`](https://www.npmjs.com/package/create-rubric-app) (inspired by `create-next-app` and `create-t3-app`). It's packed with Rubric-flavored, highly opinionated boilerplate to get you up and running with essentials like ESLint, TypeScript, Prettier, Tailwind CSS, and Next.js 14 right out of the box:
 
 ```bash
 bunx create-rubric-app@latest
