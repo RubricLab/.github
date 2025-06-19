@@ -24,7 +24,7 @@
 Our monorepo [`rubric`](https://github.com/RubricLab/rubric) houses our config and digital assets.
 
 ### Boilerplate :computer:
-Kickstart a project with our CLI tool, [`create-rubric-app`](https://www.npmjs.com/package/create-rubric-app) (inspired by `create-next-app` and `create-t3-app`). It's packed with Rubric-flavored, highly opinionated boilerplate to get you up and running with essentials like ESLint, TypeScript, Prettier, Tailwind CSS, and Next.js 14 right out of the box:
+Kickstart a project with our CLI tool, [`create-rubric-app`](https://www.npmjs.com/package/create-rubric-app) (inspired by `create-next-app` and `create-t3-app`). It's packed with Rubric-flavored, highly opinionated boilerplate to get you up and running with essentials like Biome, TypeScript, Tailwind CSS, and Next.js 15 right out of the box:
 
 ```bash
 bunx create-rubric-app@latest

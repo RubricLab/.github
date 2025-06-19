@@ -8,7 +8,7 @@ We're a spirited team of developers and designers, fueled by an AI-first, startu
 Our monorepo `/rubric` houses our [website](https://rubriclab.com) and internal tools, serving as a hub for our digital assets.
 
 ### Boilerplate Initialization :computer:
-Kickstart your project with our CLI tool, inspired by `create-next-app` / `create-t3-app`, packed with a Rubric-flavored, highly opinionated boilerplate to get you up and running with essentials like ESLint, TypeScript, Prettier, Tailwind CSS, and Next.js 13.5 right out of the box:
+Kickstart your project with our CLI tool, inspired by `create-next-app` / `create-t3-app`, packed with a Rubric-flavored, highly opinionated boilerplate to get you up and running with essentials like Biome, TypeScript, Tailwind CSS, and Next.js 15 right out of the box:
 ```bash
 bunx create-rubric-app@latest --template fullstack
 ```
